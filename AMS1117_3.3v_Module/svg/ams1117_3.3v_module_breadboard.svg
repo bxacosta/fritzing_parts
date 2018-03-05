@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ams1117_x5F_module_x5F_breadboard"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="8.8mm" width="12.5mm" viewBox="0 0 35.4 24.9"
+	 style="enable-background:new 0 0 35.4 24.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#003869;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:3.0028px;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;}
+	.st5{fill:#999999;}
+	.st6{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st7{fill:#303030;}
+	.st8{fill:#1F1F1F;}
+	.st9{fill:#3D3D3D;}
+	.st10{font-size:3.0627px;}
+</style>
+<rect id="PCB_1_" y="0" class="st0" width="35.4" height="24.9"/>
+<g id="SILK">
+	<text transform="matrix(3.907919e-05 0.977 -1 4.000000e-05 9.9691 2.0123)" class="st1 st2 st3">GND</text>
+	<text transform="matrix(-4.884899e-05 0.977 -1 -5.000000e-05 9.99 9.564)" class="st1 st2 st3">OUT</text>
+	<text transform="matrix(0 0.977 -1 0 9.9941 17.159)" class="st1 st2 st3">VIN</text>
+	<g id="AMS">
+		<line class="st4" x1="18.5" y1="22.2" x2="18.5" y2="19.1"/>
+		<line class="st4" x1="18.5" y1="22.2" x2="28.5" y2="22.2"/>
+		<line class="st4" x1="18.5" y1="2.5" x2="18.5" y2="5.6"/>
+		<line class="st4" x1="28.5" y1="2.5" x2="18.5" y2="2.5"/>
+		<line class="st4" x1="28.5" y1="22.2" x2="28.5" y2="2.5"/>
+	</g>
+	<g id="PIN_1_">
+		<line class="st4" x1="0.8" y1="1.4" x2="9.9" y2="1.4"/>
+		<line class="st4" x1="0.9" y1="23.5" x2="9.9" y2="23.5"/>
+	</g>
+</g>
+<g id="PIN">
+	<g id="_x33_">
+		<rect id="path_2_" x="0.9" y="17.4" class="st5" width="7.4" height="4.5"/>
+		<circle id="hole_2_" class="st6" cx="4.5" cy="19.7" r="1.6"/>
+	</g>
+	<g id="_x32__1_">
+		<rect id="path_1_" x="0.9" y="10.2" class="st5" width="7.4" height="4.5"/>
+		<circle id="hole_1_" class="st6" cx="4.5" cy="12.5" r="1.6"/>
+	</g>
+	<g id="_x31__1_">
+		<rect id="path" x="0.9" y="3" class="st5" width="7.4" height="4.5"/>
+		<circle id="hole" class="st6" cx="4.5" cy="5.3" r="1.6"/>
+	</g>
+</g>
+<g id="SOT223">
+	
+		<rect id="_x30_.1.12.0.0.0.0.8.0" x="13.9" y="7.4" transform="matrix(5.097095e-03 -1 1 5.097095e-03 11.0205 35.8516)" class="st7" width="19.2" height="9.9"/>
+	
+		<ellipse id="_x30_.1.12.0.0.0.0.13" transform="matrix(5.097095e-03 -1 1 5.097095e-03 15.6571 25.6869)" class="st8" cx="20.7" cy="5" rx="0.7" ry="0.7"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.6.0" x="26.1" y="9.8" transform="matrix(5.097095e-03 -1 1 5.097095e-03 18.6074 43.5838)" class="st5" width="10.2" height="5.3"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.2.0" x="14.3" y="16.5" transform="matrix(5.097095e-03 -1 1 5.097095e-03 -2.939 34.861)" class="st5" width="3.5" height="4.9"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.1.0" x="14.4" y="9.8" transform="matrix(5.097095e-03 -1 1 5.097095e-03 3.775 28.3577)" class="st5" width="3.5" height="4.9"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.0.0" x="14.4" y="3.3" transform="matrix(5.097095e-03 -1 1 5.097095e-03 10.2909 21.85)" class="st5" width="3.5" height="4.9"/>
+	<polygon id="_x30_.1.12.0.0.0.0.9" class="st8" points="28.5,2.8 28.4,22 27.7,21.2 27.8,3.5 	"/>
+	<polygon id="_x30_.1.12.0.0.0.0.10" class="st8" points="18.6,2.7 18.5,21.9 19.2,21.2 19.3,3.5 	"/>
+	<polygon id="_x30_.1.12.0.0.0.0.11" points="28.5,2.8 18.6,2.7 19.3,3.5 27.8,3.5 	"/>
+	<polygon id="_x30_.1.12.0.0.0.0.12" class="st9" points="28.4,22 18.5,21.9 19.2,21.2 27.7,21.2 	"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.7.0" x="28.6" y="12.3" transform="matrix(5.097095e-03 -1 1 5.097095e-03 21.1215 46.06)" class="st6" width="10.2" height="0.2"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.4.0" x="11.9" y="12.2" transform="matrix(5.097095e-03 -1 1 5.097095e-03 1.3096 25.9049)" class="st6" width="3.5" height="0.1"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.5.0" x="11.9" y="18.8" transform="matrix(5.097095e-03 -1 1 5.097095e-03 -5.2047 32.4098)" class="st6" width="3.5" height="0.1"/>
+	
+		<rect id="_x30_.1.12.0.0.0.0.3.0" x="12" y="5.7" transform="matrix(5.097095e-03 -1 1 5.097095e-03 7.9248 19.4978)" class="st6" width="3.5" height="0.1"/>
+	<text transform="matrix(8.570239e-05 1.0713 -1 8.000000e-05 24.5596 5.7981)" class="st1 st2 st10">AMS1117</text>
+	<text transform="matrix(8.570239e-05 1.0713 -1 8.000000e-05 20.8568 9.4439)" class="st1 st2 st10">3.3v</text>
+</g>
+</svg>
